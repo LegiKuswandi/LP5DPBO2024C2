@@ -1,6 +1,8 @@
 # LP5DPBO2024C2
 GUI Java
 
+### Saya Legi Kuswandi mengerjakan LP5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang  telah dispesifikasikan. Aamiin.
+
 ## Kelas Mahasiswa
 
 Kelas `Mahasiswa` adalah representasi dari seorang mahasiswa dalam bahasa pemrograman Java. Kelas ini memiliki atribut-atribut yang merepresentasikan informasi penting tentang seorang mahasiswa seperti NIM, nama, jenis kelamin, dan tempat tinggal. 
